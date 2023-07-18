@@ -1,0 +1,12 @@
+Package: com.REPOCYDIABVN.aim
+Name: AIM Việt Hoá
+Architecture: iphoneos-arm
+Description: Màn hình khóa thời gian và ngày kiểu iOS 16
+Maintainer: Repo Cydia BVN
+Author: alimaulana
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe
+Version: 1.2.9
+Installed-Size: 4944
+MD5sum: 6c55f209ded7071f48bf012e40586fe8
